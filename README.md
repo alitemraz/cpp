@@ -9,6 +9,7 @@ Each folder in this repository represents one course.
 | Folder | Course | Description |
 |--------|--------|-------------|
 | `Algo-Level3/` | Algorithms & Problem Solving - Level 3 | Bank client management console app, plus string, matrix and algorithm helpers |
+| `Algo-Level4/` | Algorithms & Problem Solving - Level 4 | Bank client & Users management console app, plus Dates, Periods function helpers |
 
 More folders will be added as I progress through the roadmap.
 

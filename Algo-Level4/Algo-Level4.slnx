@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Algo-Level4.vcxproj" Id="faf6d41f-d326-488d-b69f-dbcdc76cab72" />
+</Solution>
